@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<presentation guid="04771A9D-22BA-4D89-A595-721BA3866FDB" version="0" availableOffline="1">
+	<info>
+		<title>Thử</title>
+		<description/>
+	</info>
+	<files index="id7" thumbnail="id52" totalSize="5438835">
+		<file id="id4">lms.js</file>
+		<file id="id5">data/goodbye.html</file>
+		<file id="id7">index.html</file>
+		<file id="id8">data/thmb1.png</file>
+		<file id="id9">data/slide1.js</file>
+		<file id="id10">data/slide1.css</file>
+		<file id="id11">data/thmb2.png</file>
+		<file id="id12">data/slide2.js</file>
+		<file id="id13">data/slide2.css</file>
+		<file id="id14">data/thmb3.png</file>
+		<file id="id15">data/slide3.js</file>
+		<file id="id16">data/slide3.css</file>
+		<file id="id17">data/thmb4.png</file>
+		<file id="id18">data/quiz1.js</file>
+		<file id="id19">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id20">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id21">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id22">data/quiz1/fonts/fnt3.woff</file>
+		<file id="id23">data/quiz1/fonts/fnt4.woff</file>
+		<file id="id24">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id25">data/sound1.mp3</file>
+		<file id="id26">data/sound2.mp3</file>
+		<file id="id27">data/sound3.mp3</file>
+		<file id="id28">data/quizplayer.js</file>
+		<file id="id29">data/player.js</file>
+		<file id="id34">data/browsersupport.js</file>
+		<file id="id35">data/apple-touch-icon.png</file>
+		<file id="id36">data/favicon.ico</file>
+		<file id="id37">data/fnt0.woff</file>
+		<file id="id38">data/fnt1.woff</file>
+		<file id="id39">data/fnt2.woff</file>
+		<file id="id40">data/fnt3.woff</file>
+		<file id="id41">data/fnt4.woff</file>
+		<file id="id42">data/fnt5.woff</file>
+		<file id="id43">data/fnt6.woff</file>
+		<file id="id44">data/fnt7.woff</file>
+		<file id="id45">data/html5-unsupported.html</file>
+		<file id="id46">data/img0.png</file>
+		<file id="id47">data/img1.png</file>
+		<file id="id48">data/img2.png</file>
+		<file id="id49">data/img3.png</file>
+		<file id="id50">data/img4.png</file>
+		<file id="id51">data/img5.png</file>
+		<file id="id52">data/ismplayer/preview.png</file>
+	</files>
+</presentation>
